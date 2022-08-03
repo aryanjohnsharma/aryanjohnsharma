@@ -1,4 +1,4 @@
-[![MasterHead](https://www.lambdatest.com/resources/images/news24.gif)](https://aryanjohnsharma.blogspot.com)
+[![MasterHead](https://www.lambdatest.com/resources/images/news24.gif)](https://aryanjohnsharma.blogspot.com)</center>
 <h1 align="center">Hi 👋, I'm Aryan Sharma</h1>
 <h3 align="center">A PCMR Geek trying to be a passionate developer👨🏽‍💻 from India </h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/176039/screenshots/3081690/tna-dribbble-01.gif">
@@ -15,9 +15,9 @@
 
 - 🤝 I’m looking for help with **OSS Projects**
 
-- 📝 I write articles on [http://aryanjohnsharma.blogspot.com/](http://aryanjohnsharma.blogspot.com/)
-
 - 💬 Ask me about **Anything Tech Related😄**
+
+- 📝 I write articles on [http://aryanjohnsharma.blogspot.com/](http://aryanjohnsharma.blogspot.com/)
 
 - 📫 How to reach me **aryanjohnsharma@gmail.com**
 
