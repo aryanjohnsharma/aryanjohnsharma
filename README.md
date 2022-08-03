@@ -1,6 +1,6 @@
-</center><[![MasterHead](https://www.lambdatest.com/resources/images/news24.gif)](https://aryanjohnsharma.blogspot.com)></center>
+[![MasterHead](https://www.lambdatest.com/resources/images/news24.gif)](https://aryanjohnsharma.blogspot.com)
 <h1 align="center">Hi 👋, I'm Aryan Sharma</h1>
-<h3 align="center">A PCMR Geek trying to be a passionate developer👨🏽‍💻 from India </h3>
+<h3 align="center">A PCMR Geek trying to be a passionate developer👨🏽‍💻 from India🇮🇳 </h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/176039/screenshots/3081690/tna-dribbble-01.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryanjohnsharma&label=Profile%20views&color=0e75b6&style=flat" alt="aryanjohnsharma" /> </p>
@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **OSS Projects**
 
-- 🤝 I’m looking for help with **OSS Projects**
+- 👀 I’m looking for help with **OSS Projects**
 
 - 💬 Ask me about **Anything Tech Related😄**
 
