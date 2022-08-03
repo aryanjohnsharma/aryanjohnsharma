@@ -1,4 +1,4 @@
-[![MasterHead](https://www.lambdatest.com/resources/images/news24.gif)](https://aryanjohnsharma.blogspot.com)</center>
+</center>[![MasterHead](https://www.lambdatest.com/resources/images/news24.gif)](https://aryanjohnsharma.blogspot.com)</center>
 <h1 align="center">Hi 👋, I'm Aryan Sharma</h1>
 <h3 align="center">A PCMR Geek trying to be a passionate developer👨🏽‍💻 from India </h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/176039/screenshots/3081690/tna-dribbble-01.gif">
