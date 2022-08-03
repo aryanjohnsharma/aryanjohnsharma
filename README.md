@@ -1,4 +1,4 @@
-[![MasterHead](https://developers.giphy.com/branch/master/static/why_4-dbf60f160acb0c6f22c6260bd3a8c6b5.gif)](https://aryanjohnsharma.blogspot.com)
+[<img align="right"![MasterHead](https://developers.giphy.com/branch/master/static/why_4-dbf60f160acb0c6f22c6260bd3a8c6b5.gif)](https://aryanjohnsharma.blogspot.com)
 <h1 align="center">Hi 👋, I'm Aryan Sharma</h1>
 <h3 align="center">A PCMR Geek trying to be a passionate developer👨🏽‍💻 from India🇮🇳 </h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/176039/screenshots/3081690/tna-dribbble-01.gif">
