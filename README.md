@@ -1,35 +1,78 @@
-[![MasterHead](https://developers.giphy.com/branch/master/static/why_4-dbf60f160acb0c6f22c6260bd3a8c6b5.gif)](https://aryanjohnsharma.blogspot.com)<img align="center">
-<h1 align="center">Hi 👋, I'm Aryan Sharma</h1>
-<h3 align="center">A PCMR Geek trying to be a passionate developer👨🏽‍💻 from India🇮🇳 </h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/176039/screenshots/3081690/tna-dribbble-01.gif">
+<div align="center">
+  <img height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDJ1amNucnZteDF2aWlrbms1aG92aHR2dHlyZXUxMDUyOWVpdHllNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ohhwnR03UOQFgo0bS/giphy.gif"  />
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aryanjohnsharma&label=Profile%20views&color=0e75b6&style=flat" alt="aryanjohnsharma" /> </p>
+###
 
-<p align="left"> <a href="https://twitter.com/aryanjohnsharma" target="blank"><img src="https://img.shields.io/twitter/follow/aryanjohnsharma?logo=twitter&style=for-the-badge" alt="aryanjohnsharma" /></a> </p>
+<div align="center">
+  <a href="https://www.linkedin.com/in/aryan-sharma-1b91a3259/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.youtube.com/channel/UCeFsH_IUT8z6r3txk1JDwgA" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+  </a>
+  <a href="https://twitter.com/aryanjohnsharma" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  </a>
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+</div>
 
-- 🔭 I’m currently working on **College Projects**
+###
 
-- 🌱 I’m currently learning **C, C++, JavaScript**
+<h2 align="left">Hey there!</h2>
 
-- 👯 I’m looking to collaborate on **OSS Projects**
+###
 
-- 👀 I’m looking for help with **OSS Projects**
+<h3 align="left">- About Me</h3>
 
-- 💬 Ask me about **Anything Tech Related😄**
+###
 
-- 📝 I write articles on [http://aryanjohnsharma.blogspot.com/](http://aryanjohnsharma.blogspot.com/)
+<p align="left">I'm Aryan from Dhanbad, India.<br><br>🔭 Freelance Editor & Creative Agency Owner  <br>📚 Learning C++ for DSA and MERN Stack  <br>🎓 Pursuing Bachelor's Degree in Information Technology  <br><br>Let's connect and create something awesome together! 💡</p>
 
-- 📫 How to reach me **aryanjohnsharma@gmail.com**
+###
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/aryanjohnsharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aryanjohnsharma" height="30" width="40" /></a>
-<a href="https://instagram.com/aryanjohnsharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aryanjohnsharma" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/john sharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="john sharma" height="30" width="40" /></a>
-<a href="https://discord.gg/tVSZ6kmn6J" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="tVSZ6kmn6J" height="30" width="40" /></a>
-</p>
+<h3 align="left">🛠 Language and tools</h3>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
+###
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aryanjohnsharma&show_icons=true&locale=en&layout=compact" alt="aryanjohnsharma" /></p>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=pr" height="40" alt="adobepremierepro logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ae" height="40" alt="adobeaftereffects logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/googlecloud/4285F4" height="40" alt="googlecloud logo"  />
+</div>
+
+###
+
+<div align="right">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=aryanjohnsharma.aryanjohnsharma&"  />
+</div>
+
+###
+
+<div align="left">
+  <a href="https://open.spotify.com/user/r95f1qecgkdxt73wiyorgokf2">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=r95f1qecgkdxt73wiyorgokf2&count=7" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/aryanjohnsharma/aryanjohnsharma/output/snake.svg" alt="Snake animation" />
+
+###
