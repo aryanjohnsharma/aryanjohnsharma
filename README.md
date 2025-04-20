@@ -27,7 +27,7 @@
 
 ###
 
-<p align="left">I'm Aryan from Dhanbad, India.<br><br>🔭 Freelance Editor & Creative Agency Owner  <br>📚 Learning C++ for DSA and MERN Stack  <br>🎓 Pursuing Bachelor's Degree in Information Technology  <br><br>Let's connect and create something awesome together! 💡</p>
+<p align="left">I'm Aryan from Dhanbad, India.<br><br>🔭 Freelance Editor & Creative Agency Owner  <br>📚 Learning Java for DSA, MERN Stack and Full Stack Devlopment <br>🎓 Pursuing Bachelor's Degree in Information Technology  <br><br>Let's connect and create something awesome together! 💡</p>
 
 ###
 
