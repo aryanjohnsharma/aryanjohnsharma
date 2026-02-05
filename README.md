@@ -53,70 +53,12 @@ I'm a B.Tech IT student at Asansol Engineering College, combining technical deve
 
 ---
 
-## 🛠️ Featured Projects
-
-### [InstaFood](https://github.com/aryanjohnsharma/InstaFood)
-**Full-Stack Food Delivery Platform**  
-`React.js` `Spring Boot` `MySQL` `RESTful APIs`
-
-- Built responsive frontend with React and secure backend with Spring Boot
-- Implemented user authentication, order management, and automated email notifications
-- Integrated MySQL for efficient data storage and retrieval
-
-### [ResumeSparkAI](https://github.com/aryanjohnsharma/ResumeSparkAI)
-**AI-Powered Resume Builder**  
-`React.js` `TypeScript` `Puter.js` `Tailwind CSS` `Zustand`
-
-- Developed AI-driven resume matching logic against job descriptions
-- Built modular, responsive UI with browser-based authentication and storage
-- Implemented state management with Zustand and routing with React Router v7
-
-### [Portfolio Website](https://aryanjohnsharma.github.io)
-**Personal Portfolio**  
-`HTML` `CSS` `JavaScript`
-
-- Designed and deployed responsive portfolio showcasing projects and skills
-- Optimized for cross-device compatibility using modern CSS techniques
-
----
-
-## 🎬 Creative Work
-
-**Video Editing Portfolio**  
-- Fiverr Level 1 Seller with consistent 5-star ratings
-- 1M+ reach on music visual projects (FROZTMuzic)
-- Specialized in short-form content, upscaling, and platform-optimized editing
-- [View Portfolio](https://drive.google.com/drive/folders/your-link)
-
-**Instagram Projects**  
-[@aestheticmux](https://instagram.com/aestheticmux) • Personal passion edits  
-[@ai.with.100](https://instagram.com/ai.with.100) • AI-enhanced video content
-
----
-
-## 🏆 Achievements
-
-- **Smart India Hackathon** - College Level Runner-up (Frontend Developer)
-- **Fiverr Level 1 Seller** - Maintaining 5-star ratings with global client base
-- **1M+ Social Media Reach** - Music visual content creation
-
----
-
-## 📊 GitHub Stats
-
-![Aryan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aryanjohnsharma&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aryanjohnsharma&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
 ## 📫 Get In Touch
 
 - **Email:** aryanjohnsharma@gmail.com
-- **Phone:** +91 6200649708
 - **Location:** Dhanbad, Jharkhand, India
 
-Let's collaborate on building something amazing! 🚀
+Let's collaborate on building something amazing!
 
 ---
 
