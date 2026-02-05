@@ -62,10 +62,6 @@ Let's collaborate on building something amazing!
 
 ---
 
-<div align="center">
-
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=aryanjohnsharma.aryanjohnsharma)
-
 **Currently vibing to:**
 
 [![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=r95f1qecgkdxt73wiyorgokf2&count=5)](https://open.spotify.com/user/r95f1qecgkdxt73wiyorgokf2)
