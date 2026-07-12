@@ -17,7 +17,7 @@ I'm a B.Tech IT student at Asansol Engineering College, combining technical deve
 
 - 🔭 Currently working on full-stack web applications using React and Spring Boot
 - 📚 Learning advanced Data Structures, Algorithms, and MERN Stack
-- 🎬 Freelance video editor on Fiverr (Level 1 Seller, 5-star rated)
+- 🎬 Freelance video editor on Fiverr (Level 2 Seller, 5-star rated)
 - 💡 Passionate about clean code, visual storytelling, and solving real-world problems
 
 ---
