@@ -1,24 +1,30 @@
-# Hi, I'm Aryan Sharma 👋
+<div align="center">
+
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=180&section=header&text=Hi,%20I'm%20Aryan%20Sharma%20👋&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=35)
 
 **Full-Stack Developer | Video Editor | Creative Technologist**
 
 Based in Dhanbad, India • Building digital products and visual experiences
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&pause=1000&color=0077B5&center=true&vCenter=true&width=600&lines=Shipping+full-stack+products;Editing+video+for+clients+worldwide;First+principles.+Real+bottlenecks+solved.)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aryansharma2003)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aryanjohnsharma)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCeFsH_IUT8z6r3txk1JDwgA)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/aryanjohnsharma)
 
+</div>
+
 ---
 
 ## 🚀 About Me
 
-I'm a B.Tech IT student at Asansol Engineering College, combining technical development with creative video editing. I build full-stack applications and craft high-quality video content for clients globally.
+I'm fresh out of college, B.Tech in IT from Asansol Engineering College, and I build at the intersection of code and content. I ship full-stack products and edit video for clients across the globe, treating every skill I pick up as a moat, not just a line on a resume.
 
-- 🔭 Currently working on full-stack web applications using React and Spring Boot
-- 📚 Learning advanced Data Structures, Algorithms, and MERN Stack
-- 🎬 Freelance video editor on Fiverr (Level 2 Seller, 5-star rated)
-- 💡 Passionate about clean code, visual storytelling, and solving real-world problems
+- 🔭 Currently building full-stack web apps with React and Spring Boot, shipping fast and iterating faster
+- 📚 Deep in Data Structures, Algorithms, and the MERN stack, compounding the fundamentals
+- 🎬 Freelance video editor on Fiverr (Level 2 Seller, 5-star rated), distribution done right
+- 💡 First-principles thinker: clean code, sharp storytelling, real bottlenecks solved
 
 ---
 
@@ -58,12 +64,16 @@ I'm a B.Tech IT student at Asansol Engineering College, combining technical deve
 - **Email:** aryanjohnsharma@gmail.com
 - **Location:** Dhanbad, Jharkhand, India
 
-Let's collaborate on building something amazing!
+Let's build something worth scaling.
 
 ---
+
+<div align="center">
 
 **Currently vibing to:**
 
 [![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=r95f1qecgkdxt73wiyorgokf2&count=5)](https://open.spotify.com/user/r95f1qecgkdxt73wiyorgokf2)
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer)
 
 </div>
