@@ -29,6 +29,6 @@ B.Tech in IT from Asansol Engineering College. I build full-stack products and e
 ♪  now playing
 ```
 
-[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=r95f1qecgkdxt73wiyorgokf2&count=3)](https://open.spotify.com/user/r95f1qecgkdxt73wiyorgokf2)
+[![Spotify recently played](https://spotify-recently-played.jeffreyca.workers.dev/svg?user=r95f1qecgkdxt73wiyorgokf2&count=3)](https://open.spotify.com/user/r95f1qecgkdxt73wiyorgokf2)
 
 </div>
