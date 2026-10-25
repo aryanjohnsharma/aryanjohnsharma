@@ -1,79 +1,34 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=180&section=header&text=Hi,%20I'm%20Aryan%20Sharma%20👋&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=35)
+```text
+┌─ aryan@india ~ ───────────────────────┐
+│ full-stack developer / video editor   │
+│ dhanbad, india                        │
+└───────────────────────────────────────┘
+```
 
-**Full-Stack Developer | Video Editor | Creative Technologist**
-
-Based in Dhanbad, India • Building digital products and visual experiences
-
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&pause=1000&color=0077B5&center=true&vCenter=true&width=600&lines=Shipping+full-stack+products;Editing+video+for+clients+worldwide;First+principles.+Real+bottlenecks+solved.)](https://git.io/typing-svg)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aryansharma2003)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aryanjohnsharma)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCeFsH_IUT8z6r3txk1JDwgA)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/aryanjohnsharma)
+[LinkedIn](https://www.linkedin.com/in/aryansharma2003) · [GitHub](https://github.com/aryanjohnsharma) · [YouTube](https://www.youtube.com/channel/UCeFsH_IUT8z6r3txk1JDwgA) · [Twitter](https://twitter.com/aryanjohnsharma) · [Email](mailto:aryanjohnsharma@gmail.com)
 
 </div>
 
----
+```text
+> about
+```
 
-## 🚀 About Me
+B.Tech in IT from Asansol Engineering College. I build full-stack products and edit video for clients worldwide. Currently working with **React** and **Spring Boot**, while sharpening DSA and the MERN stack. Fiverr Level 2 seller, 5-star rated.
 
-I'm fresh out of college, B.Tech in IT from Asansol Engineering College, and I build at the intersection of code and content. I ship full-stack products and edit video for clients across the globe, treating every skill I pick up as a moat, not just a line on a resume.
+```text
+> toolkit
+```
 
-- 🔭 Currently building full-stack web apps with React and Spring Boot, shipping fast and iterating faster
-- 📚 Deep in Data Structures, Algorithms, and the MERN stack, compounding the fundamentals
-- 🎬 Freelance video editor on Fiverr (Level 2 Seller, 5-star rated), distribution done right
-- 💡 First-principles thinker: clean code, sharp storytelling, real bottlenecks solved
-
----
-
-## 💻 Tech Stack
-
-**Languages**  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-
-**Frameworks & Libraries**  
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat&logo=express&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
-
-**Databases**  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-
-**Tools & Platforms**  
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-
-**Video Editing**  
-![DaVinci Resolve](https://img.shields.io/badge/DaVinci_Resolve-233A51?style=flat&logo=davinciresolve&logoColor=white)
-![Adobe Premiere Pro](https://img.shields.io/badge/Premiere_Pro-9999FF?style=flat&logo=adobepremierepro&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white)
-
----
-
-## 📫 Get In Touch
-
-- **Email:** aryanjohnsharma@gmail.com
-- **Location:** Dhanbad, Jharkhand, India
-
-Let's build something worth scaling.
-
----
+`Java` · `JavaScript` · `Python` · `React` · `Spring Boot` · `Express` · `MongoDB` · `MySQL` · `Git` · `DaVinci Resolve` · `Premiere Pro`
 
 <div align="center">
 
-**Currently vibing to:**
+```text
+♪  now playing
+```
 
-[![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=r95f1qecgkdxt73wiyorgokf2&count=5)](https://open.spotify.com/user/r95f1qecgkdxt73wiyorgokf2)
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer)
+[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=r95f1qecgkdxt73wiyorgokf2&count=3)](https://open.spotify.com/user/r95f1qecgkdxt73wiyorgokf2)
 
 </div>
