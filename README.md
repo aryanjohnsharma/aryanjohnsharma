@@ -1,12 +1,14 @@
 <div align="center">
 
-<table align="center">
-  <tr><td><samp>┌─ aryan@india:~ ───────────────────────┐<br>│ full-stack developer · video editor  │<br>│ dhanbad, india                       │<br>└───────────────────────────────────────┘</samp></td></tr>
-</table>
+<!-- Profile banner PNG will go here. Suggested ratio: 4:1. -->
 
-**Aryan Sharma** · developer / video editor
+**Aryan Sharma** · developer / video editor · Dhanbad, India
 
-[LinkedIn](https://www.linkedin.com/in/aryansharma2003) · [GitHub](https://github.com/aryanjohnsharma) · [YouTube](https://www.youtube.com/channel/UCeFsH_IUT8z6r3txk1JDwgA) · [Twitter](https://twitter.com/aryanjohnsharma) · [Email](mailto:aryanjohnsharma@gmail.com)
+<a href="https://www.linkedin.com/in/aryansharma2003"><img src="https://img.shields.io/badge/-0D1117?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://github.com/aryanjohnsharma"><img src="https://img.shields.io/badge/-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+<a href="https://www.youtube.com/channel/UCeFsH_IUT8z6r3txk1JDwgA"><img src="https://img.shields.io/badge/-0D1117?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
+<a href="https://twitter.com/aryanjohnsharma"><img src="https://img.shields.io/badge/-0D1117?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
+<a href="mailto:aryanjohnsharma@gmail.com"><img src="https://img.shields.io/badge/-0D1117?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 
 </div>
 
@@ -18,10 +20,7 @@ B.Tech in IT from Asansol Engineering College. I build full-stack products and e
 
 `Java` · `JavaScript` · `Python` · `React` · `Spring Boot` · `Express` · `MongoDB` · `MySQL` · `Git` · `DaVinci Resolve` · `Premiere Pro`
 
-<div align="center">
-
-## ♪ `now playing`
-
-[![Spotify recently played](https://spotify-recently-played.jeffreyca.workers.dev/svg?user=r95f1qecgkdxt73wiyorgokf2&count=3)](https://open.spotify.com/user/r95f1qecgkdxt73wiyorgokf2)
-
+<div align="left">
+  <p><samp>♪ &nbsp;now playing</samp></p>
+  <a href="https://open.spotify.com/user/r95f1qecgkdxt73wiyorgokf2"><img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=r95f1qecgkdxt73wiyorgokf2&amp;count=3&amp;width=320" alt="Spotify recently played" width="320"></a>
 </div>
