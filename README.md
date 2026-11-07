@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="profile-banner.png" alt="Aryan Sharma profile banner" width="100%">
+<img src="profile-banner.jpg" alt="Aryan Sharma profile banner" width="1000">
 
 **Aryan Sharma** · B.Tech fresher · developer / editor · Growth Partner · Dhanbad, India
 
