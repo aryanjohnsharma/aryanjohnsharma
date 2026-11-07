@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" fill="none">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="260" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#10151D"/>
+      <stop offset="1" stop-color="#1B2530"/>
+    </linearGradient>
+    <linearGradient id="glow" x1="775" y1="5" x2="1164" y2="267" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#B8F36B" stop-opacity=".23"/>
+      <stop offset="1" stop-color="#B8F36B" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M36 0H0V36" stroke="#D8E4EA" stroke-opacity=".055"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="260" rx="18" fill="url(#bg)"/>
+  <rect width="1200" height="260" rx="18" fill="url(#grid)"/>
+  <ellipse cx="1020" cy="128" rx="252" ry="190" fill="url(#glow)"/>
+  <path d="M855 194 1011 38l156 156" stroke="#B8F36B" stroke-opacity=".24" stroke-width="2"/>
+  <path d="m927 194 84-84 84 84" stroke="#B8F36B" stroke-opacity=".34" stroke-width="2"/>
+  <circle cx="1011" cy="110" r="5" fill="#B8F36B"/>
+  <rect x="72" y="57" width="34" height="4" rx="2" fill="#B8F36B"/>
+  <text x="72" y="126" fill="#F3F6F4" font-family="Segoe UI, Arial, sans-serif" font-size="40" font-weight="600" letter-spacing="-1.3">Shipping things</text>
+  <text x="72" y="174" fill="#F3F6F4" font-family="Segoe UI, Arial, sans-serif" font-size="40" font-weight="600" letter-spacing="-1.3">that help people.</text>
+  <text x="74" y="213" fill="#AAB6BB" font-family="Segoe UI, Arial, sans-serif" font-size="15" letter-spacing="2.2">BUILD · CREATE · EDIT</text>
+</svg>
+
