@@ -1,8 +1,10 @@
 <div align="center">
 
-<!-- Profile banner PNG will go here. Suggested ratio: 4:1. -->
+<img src="profile-banner.svg" alt="Abstract dark banner with a warm accent and the words Shipping things that help people" width="100%">
 
-**Aryan Sharma** · developer / video editor · Dhanbad, India
+**Aryan Sharma** · B.Tech fresher · developer / editor · Growth Partner · Dhanbad, India
+
+*Open for hire · Chief Taste Officer (unofficial)*
 
 <a href="https://www.linkedin.com/in/aryansharma2003"><img src="https://img.shields.io/badge/-0D1117?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://github.com/aryanjohnsharma"><img src="https://img.shields.io/badge/-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
@@ -14,7 +16,7 @@
 
 ## `about`
 
-B.Tech in IT from Asansol Engineering College. I build full-stack products and edit video for clients worldwide. Currently working with **React** and **Spring Boot**, while sharpening DSA and the MERN stack. Fiverr Level 2 seller, 5-star rated.
+B.Tech fresher passionate about shipping things that help people. I also work as a growth partner and edit videos for clients worldwide. Fiverr Level 2 seller with a 5-star rating.
 
 ## `toolkit`
 
@@ -24,3 +26,4 @@ B.Tech in IT from Asansol Engineering College. I build full-stack products and e
   <p><samp>♪ &nbsp;now playing</samp></p>
   <a href="https://open.spotify.com/user/r95f1qecgkdxt73wiyorgokf2"><img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=r95f1qecgkdxt73wiyorgokf2&amp;count=3&amp;width=320" alt="Spotify recently played" width="320"></a>
 </div>
+
