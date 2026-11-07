@@ -10,7 +10,7 @@
 <a href="https://github.com/aryanjohnsharma"><img src="https://img.shields.io/badge/-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 <a href="https://www.youtube.com/channel/UCeFsH_IUT8z6r3txk1JDwgA"><img src="https://img.shields.io/badge/-0D1117?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
 <a href="https://twitter.com/aryanjohnsharma"><img src="https://img.shields.io/badge/-0D1117?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
-<a href="https://www.fiverr.com/s/61z5wwX"><img src="https://img.shields.io/badge/-0D1117?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr"></a>
+<a href="https://www.fiverr.com/s/61z5wwX"><img src="https://img.shields.io/badge/Fiverr-0D1117?style=for-the-badge&labelColor=0D1117" alt="Fiverr"></a>
 <a href="mailto:aryanjohnsharma@gmail.com"><img src="https://img.shields.io/badge/-0D1117?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 
 </div>
