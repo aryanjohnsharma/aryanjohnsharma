@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="profile-banner.svg" alt="Abstract dark banner with a warm accent and the words Shipping things that help people" width="100%">
+<img src="profile-banner.png" alt="Aryan Sharma profile banner" width="100%">
 
 **Aryan Sharma** · B.Tech fresher · developer / editor · Growth Partner · Dhanbad, India
 
-*Open for hire · Chief Taste Officer (unofficial)*
+*Open for hire · Chief Taste Officer*
 
 <a href="https://www.linkedin.com/in/aryansharma2003"><img src="https://img.shields.io/badge/-0D1117?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://github.com/aryanjohnsharma"><img src="https://img.shields.io/badge/-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
