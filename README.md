@@ -22,8 +22,3 @@ B.Tech fresher passionate about shipping things that help people. I also work as
 
 `Java` · `JavaScript` · `Python` · `React` · `Spring Boot` · `Express` · `MongoDB` · `MySQL` · `Git` · `DaVinci Resolve` · `Premiere Pro`
 
-<div align="left">
-  <p><samp>♪ &nbsp;now playing</samp></p>
-  <a href="https://open.spotify.com/user/r95f1qecgkdxt73wiyorgokf2"><img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=r95f1qecgkdxt73wiyorgokf2&amp;count=3&amp;width=320" alt="Spotify recently played" width="320"></a>
-</div>
-
